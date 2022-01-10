@@ -46,7 +46,7 @@
 
   // Default settings
   var defaults = {
-    basePercentageOn: 'containerVisibility', // See `_basePercentageOnOptions` for more options
+    basePercentageOn: 'pageScroll', // See `_basePercentageOnOptions` for more options
     decimalPrecision: 2
   };
 
